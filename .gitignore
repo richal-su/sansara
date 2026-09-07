@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Env
+.env
+.env.*
+
+# Build / logs
+*.log
+dist/
+build/
+
+# Data and large artifacts
+*.zip
+*.7z
+*.rar
+*.mp4
+*.mov
+*.avi
+*.parquet
+*.feather
+*.pkl
+*.joblib
+*.onnx
+*.pt
+*.pth
+*.h5
