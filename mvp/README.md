@@ -1,48 +1,71 @@
-# MVP
+# MVP Sansara
 
 ## Назначение
 
-MVP предназначен для проверки ключевых продуктовых гипотез и демонстрации основного пользовательского сценария.
+Проверить ключевую продуктовую гипотезу: **AI и правила находят релевантные совпадения между складским остатком и закупочной заявкой, и компании готовы закрывать сделки на платформе** (источники: `data/raw/mvp.txt`, `data/raw/technical_architecture.txt`).
 
 ## Какие гипотезы проверяются
 
-- Гипотеза 1: ...
-- Гипотеза 2: ...
-- Гипотеза 3: ...
+- Релевантность matching (Acceptance Rate, precision на пилоте).
+- Готовность продавца подтверждать офферы без публикации всего склада.
+- Готовность покупателя менять привычного поставщика при доказанной экономии с доставкой и документами.
+- Возможность монетизации по тарифу Start (комиссия 3%) с переходом к Pro/Enterprise.
 
 ## Что реализовано
 
-- ...
+Исполняемый код и демо **пока отсутствуют**. В каталоге `mvp/` зафиксированы:
 
-## Что не реализовано
+- продуктовый scope и экраны P0 — [`docs/04_mvp_and_backlog/mvp_scope.md`](../docs/04_mvp_and_backlog/mvp_scope.md);
+- целевой технологический стек — [`docs/06_ai_product/ai_solution_concept.md`](../docs/06_ai_product/ai_solution_concept.md);
+- исходные тексты — [`data/raw/`](../data/raw/).
 
-- ...
+При появлении кода разместить по подсистемам: `web/`, `api/`, `ml/`, `data/`, `config/`, `tests/`, `demo/`.
+
+## Что не реализовано (по scope MVP)
+
+- Публичный маркетплейс, аукционы, все категории стройматериалов.
+- Автоплатежи, escrow, собственная логистика, мобильное приложение.
+- Полные интеграции SAP и прочих ERP; автоматическое выявление неликвидов.
+- Программный прототип (код ещё не начат).
 
 ## Структура каталога
 
-- `web/` — пользовательский интерфейс
-- `api/` — серверная логика
-- `mobile/` — мобильный прототип, если применимо
-- `ml/` — AI/ML-компоненты
-- `data/` — демонстрационные данные
-- `config/` — конфигурация запуска
-- `tests/` — тестовые сценарии
-- `demo/` — материалы для демонстрации
+```text
+mvp/
+  README.md          — этот файл
+  web/               — (план) React / Next.js
+  api/               — (план) Python + FastAPI
+  ml/                — (план) matching, embeddings
+  data/              — (план) демо-выгрузки Excel/CSV
+  config/            — (план) Docker, env
+  tests/             — (план) сценарии matching
+  demo/              — (план) материалы для защиты
+```
 
 ## Запуск
 
-```bash
-# Опишите команды запуска MVP
-```
+Исполняемый MVP отсутствует. После реализации добавить команды запуска сюда.
+
+## Технологии (план)
+
+- Frontend: React / Next.js
+- Backend: Python + FastAPI
+- PostgreSQL + pgvector
+- Embeddings + LLM для semantic matching
+- Docker, S3-совместимое хранилище для файлов
+
+## Ответственность
+
+Заполнить в [`docs/00_course/team.md`](../docs/00_course/team.md) (завтра) и продублировать здесь, кто отвечает за реализацию MVP.
 
 ## Связь с документацией
 
-- MVP scope: `../docs/04_mvp_and_backlog/mvp_scope.md`
-- Backlog: `../docs/04_mvp_and_backlog/product_backlog.md`
-- Roadmap: `../docs/03_product_strategy/roadmap.md`
+- MVP scope: [`docs/04_mvp_and_backlog/mvp_scope.md`](../docs/04_mvp_and_backlog/mvp_scope.md)
+- Backlog: [`docs/04_mvp_and_backlog/product_backlog.md`](../docs/04_mvp_and_backlog/product_backlog.md)
+- Roadmap: [`docs/03_product_strategy/roadmap.md`](../docs/03_product_strategy/roadmap.md)
 
 ## Ссылки
 
-- Прототип / Unidraw: 
-- Демо-стенд: 
-- Видео демонстрации: 
+- Прототип / Unidraw: **пока пусто** — вставить позже
+- Демо-стенд: —
+- Видео демонстрации: —
