@@ -21,7 +21,7 @@
 
 ### Целевая аудитория
 
-На старте — строительные, инженерные и электромонтажные компании в одном регионе (для пилота предлагаются Москва и Московская область при доступе команды к локальным клиентам). Приоритетные материалы: новые кабель, электрика, автоматика, трубы, фитинги, вентиляция, крепёж, инженерное оборудование; без скоропорта, химии и сложной б/у экспертизы на первом этапе.
+На старте — строительные, инженерные и электромонтажные компании в одном регионе (пилот: Москва и Московская область). Пять категорий MVP в одной производственно-строительной сфере: **кабель и провод**, **электрощитовое оборудование и автоматика**, **трубы**, **фитинги и соединения**, **крепёж**. Без скоропорта, химии и сложной б/у экспертизы на первом этапе.
 
 ### Продуктовое решение
 
@@ -31,29 +31,30 @@ B2B-платформа Sansara загружает остатки и закупо
 
 ### Основной проект в Unidraw
 
-- [Открыть основной проект в Unidraw](вставьте_ссылку) — **заполнить позже**
+- [Открыть основной проект в Unidraw](#)
 
 ### Тематические доски
 
 | Артефакт | Ссылка на доску Unidraw | Файл с пояснением |
 |---|---|---|
-| Карта пути клиента (CJM) | [ссылка](вставьте_ссылку) | [`docs/02_user_research/customer_journey_map.md`](docs/02_user_research/customer_journey_map.md) |
-| Исследование рынка и конкурентов | [ссылка](вставьте_ссылку) | [`docs/01_product_discovery/competitor_analysis.md`](docs/01_product_discovery/competitor_analysis.md) |
-| Продуктовая стратегия и roadmap | [ссылка](вставьте_ссылку) | [`docs/03_product_strategy/roadmap.md`](docs/03_product_strategy/roadmap.md) |
-| Backlog и приоритизация | [ссылка](вставьте_ссылку) | [`docs/04_mvp_and_backlog/product_backlog.md`](docs/04_mvp_and_backlog/product_backlog.md) |
-| Прототип MVP | [ссылка](вставьте_ссылку) | [`docs/04_mvp_and_backlog/mvp_scope.md`](docs/04_mvp_and_backlog/mvp_scope.md) |
-| AI/ML-компонент и архитектура | [ссылка](вставьте_ссылку) | [`docs/06_ai_product/ai_solution_concept.md`](docs/06_ai_product/ai_solution_concept.md) |
-| Метрики и аналитическая панель | [ссылка](вставьте_ссылку) | [`docs/07_analytics/kpi_dashboard.md`](docs/07_analytics/kpi_dashboard.md) |
-
-> Ссылки Unidraw пока пустые — вставить перед сдачей (см. также `feedback/revision_log.md`).
+| Карта пути клиента (CJM) | [ссылка](#) | [`docs/02_user_research/customer_journey_map.md`](docs/02_user_research/customer_journey_map.md) |
+| Исследование рынка и конкурентов | [ссылка](#) | [`docs/01_product_discovery/competitor_analysis.md`](docs/01_product_discovery/competitor_analysis.md) |
+| Продуктовая стратегия и roadmap | [ссылка](#) | [`docs/03_product_strategy/roadmap.md`](docs/03_product_strategy/roadmap.md) |
+| Backlog и приоритизация | [ссылка](#) | [`docs/04_mvp_and_backlog/product_backlog.md`](docs/04_mvp_and_backlog/product_backlog.md) |
+| Прототип MVP | [ссылка](#) | [`docs/04_mvp_and_backlog/mvp_scope.md`](docs/04_mvp_and_backlog/mvp_scope.md) |
+| AI/ML-компонент и архитектура | [ссылка](#) | [`docs/06_ai_product/ai_solution_concept.md`](docs/06_ai_product/ai_solution_concept.md) |
+| Метрики и аналитическая панель | [ссылка](#) | [`docs/07_analytics/kpi_dashboard.md`](docs/07_analytics/kpi_dashboard.md) |
 
 ## Состав команды
 
-ФИО и вклад участников — **заполнить завтра** в файле:
+| Участник | Роль | Вклад |
+|---|---|---:|
+| Лебединцев Кирилл Иванович | Product Owner / координатор | 25% |
+| Щипунов Дмитрий Владимирович | Product Analyst / UX | 25% |
+| Мустафин Денис Димьянович | Business Analyst | 25% |
+| Карпов Максим Сергеевич | Tech / Data Analyst | 25% |
 
-- [`docs/00_course/team.md`](docs/00_course/team.md)
-
-Кратко продублировать состав можно в таблице «Сведения о проекте» выше после заполнения `team.md`.
+Подробнее: [`docs/00_course/team.md`](docs/00_course/team.md).
 
 ## Состав репозитория
 
