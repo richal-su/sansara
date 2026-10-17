@@ -37,13 +37,13 @@ B2B-платформа Sansara загружает остатки и закупо
 
 | Артефакт | Ссылка на доску Unidraw | Файл с пояснением |
 |---|---|---|
-| Карта пути клиента (CJM) | [ссылка](#) | [`docs/02_user_research/customer_journey_map.md`](docs/02_user_research/customer_journey_map.md) |
-| Исследование рынка и конкурентов | [ссылка](#) | [`docs/01_product_discovery/competitor_analysis.md`](docs/01_product_discovery/competitor_analysis.md) |
-| Продуктовая стратегия и roadmap | [ссылка](#) | [`docs/03_product_strategy/roadmap.md`](docs/03_product_strategy/roadmap.md) |
-| Backlog и приоритизация | [ссылка](#) | [`docs/04_mvp_and_backlog/product_backlog.md`](docs/04_mvp_and_backlog/product_backlog.md) |
-| Прототип MVP | [ссылка](#) | [`docs/04_mvp_and_backlog/mvp_scope.md`](docs/04_mvp_and_backlog/mvp_scope.md) |
-| AI/ML-компонент и архитектура | [ссылка](#) | [`docs/06_ai_product/ai_solution_concept.md`](docs/06_ai_product/ai_solution_concept.md) |
-| Метрики и аналитическая панель | [ссылка](#) | [`docs/07_analytics/kpi_dashboard.md`](docs/07_analytics/kpi_dashboard.md) |
+| Карта пути клиента (CJM) | [ссылка](https://unidraw.io/app/board/988e17100a7f56bf60ca?allow_guest=true) | [`docs/02_user_research/customer_journey_map.md`](docs/02_user_research/customer_journey_map.md) |
+| Исследование рынка и конкурентов | [ссылка](https://unidraw.io/app/board/a5f3fca1e48bcb4e6a6d?allow_guest=true) | [`docs/01_product_discovery/competitor_analysis.md`](docs/01_product_discovery/competitor_analysis.md) |
+| Продуктовая стратегия и roadmap | [ссылка](https://unidraw.io/app/board/f68b046341f71393fd1d?allow_guest=true) | [`docs/03_product_strategy/roadmap.md`](docs/03_product_strategy/roadmap.md) |
+| Backlog и приоритизация | [ссылка](https://unidraw.io/app/board/5bbdadd8a01110d6cc5a?allow_guest=true) | [`docs/04_mvp_and_backlog/product_backlog.md`](docs/04_mvp_and_backlog/product_backlog.md) |
+| Прототип MVP | [ссылка](https://unidraw.io/app/board/beb6977eb0aac20e114b?allow_guest=true) | [`docs/04_mvp_and_backlog/mvp_scope.md`](docs/04_mvp_and_backlog/mvp_scope.md) |
+| AI/ML-компонент и архитектура | [ссылка](https://unidraw.io/app/board/c319dafa022b7a2c98a9?allow_guest=true) | [`docs/06_ai_product/ai_solution_concept.md`](docs/06_ai_product/ai_solution_concept.md) |
+| Метрики и аналитическая панель | [ссылка](https://unidraw.io/app/board/897320906af94565fc8f?allow_guest=true) | [`docs/07_analytics/kpi_dashboard.md`](docs/07_analytics/kpi_dashboard.md) |
 
 ## Состав команды
 
