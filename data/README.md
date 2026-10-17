@@ -20,13 +20,11 @@
   - `unit_economics_hypothesis.md`
   - `revenue_scenarios.md`
   - `market_context.md`
-  - `kpi_dashboard_example.md`
   - `competitor_sources.md`
 
 ## Ограничения
 
 - Цифры unit-экономики и сценариев выручки — **гипотезы**.
-- KPI dashboard — **пример целевого экрана**, не отчёт о работе продукта.
 - Нет персональных данных респондентов и выгрузок ERP клиентов.
 - Официальная монетизация в docs: гибрид Start/Pro/Enterprise (3% / 1,5% / 0,5%); упоминание 5% в `mvp.txt` — черновик, не используется в сдаче.
 

@@ -2,7 +2,7 @@
 
 ## Ссылка на визуальный материал
 
-[Открыть доску в Unidraw](#)
+[Открыть доску в Unidraw](https://unidraw.io/app/board/5bbdadd8a01110d6cc5a?allow_guest=true)
 
 ## Цель
 

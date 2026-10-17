@@ -18,7 +18,7 @@
 Исполняемый код и демо **пока отсутствуют**. В каталоге `mvp/` зафиксированы:
 
 - продуктовый scope и экраны P0 — [`docs/04_mvp_and_backlog/mvp_scope.md`](../docs/04_mvp_and_backlog/mvp_scope.md);
-- целевой технологический стек — [`docs/06_ai_product/ai_solution_concept.md`](../docs/06_ai_product/ai_solution_concept.md);
+- целевой технологический стек — раздел «Технологии (план)» ниже;
 - исходные тексты — [`data/raw/`](../data/raw/).
 
 При появлении кода разместить по подсистемам: `web/`, `api/`, `ml/`, `data/`, `config/`, `tests/`, `demo/`.
@@ -75,6 +75,6 @@ mvp/
 
 ## Ссылки
 
-- Прототип / Unidraw: [открыть](#)
+- Прототип / Unidraw: [открыть](https://unidraw.io/app/board/beb6977eb0aac20e114b?allow_guest=true)
 - Демо-стенд: —
 - Видео демонстрации: —
