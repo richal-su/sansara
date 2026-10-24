@@ -58,8 +58,9 @@ B2B-платформа Sansara загружает остатки и закупо
 
 ```text
 docs/          Документация и продуктовые артефакты
-assignments/   Выгрузки семинаров (С5: истории, RICE, план)
-data/          Исходные и обработанные данные (выгрузки из docx, таблицы расчётов)
+assignments/   Выгрузки семинаров (С5: истории, RICE, план; С10: метрики ML)
+notebooks/     Jupyter-ноутбуки с расчётами (С10: team_403_metrics.ipynb)
+data/          Исходные и обработанные данные (выгрузки из docx, CSV семинаров, таблицы расчётов)
 feedback/      Обратная связь и журнал доработок
 mvp/           Описание MVP (исполняемый код пока отсутствует)
 ```
@@ -73,6 +74,7 @@ mvp/           Описание MVP (исполняемый код пока от
 - Приоритизация: [`docs/04_mvp_and_backlog/prioritization_rice.md`](docs/04_mvp_and_backlog/prioritization_rice.md)
 - Roadmap: [`docs/03_product_strategy/roadmap.md`](docs/03_product_strategy/roadmap.md)
 - Экономическое обоснование: [`docs/03_product_strategy/unit_economics.md`](docs/03_product_strategy/unit_economics.md)
+- Метрики качества ML (семинар 10): ноутбук [`notebooks/team_403_metrics.ipynb`](notebooks/team_403_metrics.ipynb) и выводы для Matching Engine [`docs/07_analytics/ml_metrics.md`](docs/07_analytics/ml_metrics.md). Техническая метрика Sansara — Precision@10; North Star — GMV завершённых сделок
 
 ## MVP
 

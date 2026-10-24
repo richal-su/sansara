@@ -13,9 +13,21 @@
 
 Период актуальности конкурентного сравнения: **2 октября 2026**. Рыночные показатели Росстата — **2025 год** (РФ и ЦФО).
 
+### Семинар 10 — учебные датасеты метрик ML
+
+| Параметр | Значение |
+|---|---|
+| Источник | Архив `resources/metrics_datasets.zip` репозитория курса [amalrik/it-product-management](https://gitverse.ru/amalrik/it-product-management), методичка [`practice/mguide-2-10.md`](https://gitverse.ru/amalrik/it-product-management/content/master/practice/mguide-2-10.md) |
+| Дата загрузки | 24 октября 2026 |
+| Состав | 10 CSV: `variant_1…5_classification.csv` (`y_true, y_pred, y_score`), `variant_6…8_regression.csv` (`y_true, y_pred`), `variant_9…10_recsys.csv` (`user_id, recommended_items, relevant_items`, списки через `;`) |
+| Используются командой | варианты 3, 8, 9 (допущение о соответствии команде 403 — см. [`assignments/README.md`](../assignments/README.md)) |
+| Целостность | файлы не изменялись; SHA-256 в `raw/seminar_10/SHA256SUMS`, проверка выполняется в ноутбуке |
+| Ограничения | синтетические учебные данные преподавателя; единицы регрессии не указаны («ед. данных»); не являются данными Sansara |
+
 ## Структура
 
 - `raw/` — текстовые выгрузки из docx без изменений смысла.
+- `raw/seminar_10/` — исходные CSV семинара 10 (метрики ML) и контрольные суммы.
 - `processed/` — таблицы для расчётов:
   - `unit_economics_hypothesis.md`
   - `revenue_scenarios.md`
