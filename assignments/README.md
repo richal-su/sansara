@@ -5,6 +5,9 @@
 | Семинар | Файлы | Связанные docs |
 |---|---|---|
 | С5. Истории, RICE, план | [`S5_403_product_book.md`](S5_403_product_book.md), [`S5_403_draft.json`](S5_403_draft.json) | [`docs/04_mvp_and_backlog/`](../docs/04_mvp_and_backlog/), [`docs/05_delivery/work_plan.md`](../docs/05_delivery/work_plan.md) |
+| С6. Планирование и прототип v0 | [`S6_403_sprint_and_prototype.md`](S6_403_sprint_and_prototype.md) | [`docs/05_delivery/work_plan.md`](../docs/05_delivery/work_plan.md) |
+| С7. AI Product Canvas | [`S7_403_ai_product_canvas.md`](S7_403_ai_product_canvas.md) | [`docs/06_ai_product/ai_solution_concept.md`](../docs/06_ai_product/ai_solution_concept.md) |
+| С8. CJM и требования | [`S8_403_cjm_and_requirements.md`](S8_403_cjm_and_requirements.md) | [`docs/02_user_research/customer_journey_map.md`](../docs/02_user_research/customer_journey_map.md) |
 | С10. Метрики качества ML-моделей | [`notebooks/team_403_metrics.ipynb`](../notebooks/team_403_metrics.ipynb), данные [`data/raw/seminar_10/`](../data/raw/seminar_10/), зависимости [`notebooks/requirements.txt`](../notebooks/requirements.txt) | [`docs/07_analytics/ml_metrics.md`](../docs/07_analytics/ml_metrics.md) |
 
 ### С10 — кратко
