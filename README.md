@@ -65,6 +65,8 @@ mvp/           Описание MVP (исполняемый код пока от
 
 ## Основные результаты
 
+- [Продуктовая книга Sansara](docs/08_final/product_book.md) — сводное описание проекта, ссылки на артефакты и ограничения доказательств.
+
 - Проблема и ценностное предложение: [`docs/01_product_discovery/product_vision.md`](docs/01_product_discovery/product_vision.md)
 - Исследование пользователей: [`docs/02_user_research/customer_journey_map.md`](docs/02_user_research/customer_journey_map.md)
 - Конкурентный анализ: [`docs/01_product_discovery/competitor_analysis.md`](docs/01_product_discovery/competitor_analysis.md)
