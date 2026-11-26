@@ -29,10 +29,6 @@ B2B-платформа Sansara загружает остатки и закупо
 
 ## Внешние материалы
 
-### Основной проект в Unidraw
-
-- [Открыть основной проект в Unidraw](#)
-
 ### Тематические доски
 
 | Артефакт | Ссылка на доску Unidraw | Файл с пояснением |
@@ -42,6 +38,8 @@ B2B-платформа Sansara загружает остатки и закупо
 | Продуктовая стратегия и roadmap | [ссылка](https://unidraw.io/app/board/f68b046341f71393fd1d?allow_guest=true) | [`docs/03_product_strategy/roadmap.md`](docs/03_product_strategy/roadmap.md) |
 | Backlog и приоритизация | [ссылка](https://unidraw.io/app/board/5bbdadd8a01110d6cc5a?allow_guest=true) | [`docs/04_mvp_and_backlog/product_backlog.md`](docs/04_mvp_and_backlog/product_backlog.md) |
 | Прототип MVP | [ссылка](https://unidraw.io/app/board/beb6977eb0aac20e114b?allow_guest=true) | [`docs/04_mvp_and_backlog/mvp_scope.md`](docs/04_mvp_and_backlog/mvp_scope.md) |
+| AI/ML и архитектура | [ссылка](https://unidraw.io/app/board/c319dafa022b7a2c98a9?allow_guest=true) | [`docs/06_ai_product/ai_solution_concept.md`](docs/06_ai_product/ai_solution_concept.md) |
+| Метрики и аналитическая панель | [ссылка](https://unidraw.io/app/board/897320906af94565fc8f?allow_guest=true) | [`docs/07_analytics/kpi_dashboard.md`](docs/07_analytics/kpi_dashboard.md) |
 
 ## Состав команды
 
@@ -73,6 +71,8 @@ mvp/           Описание MVP (исполняемый код пока от
 - MVP и продуктовый backlog: [`docs/04_mvp_and_backlog/mvp_scope.md`](docs/04_mvp_and_backlog/mvp_scope.md)
 - Приоритизация: [`docs/04_mvp_and_backlog/prioritization_rice.md`](docs/04_mvp_and_backlog/prioritization_rice.md)
 - Roadmap: [`docs/03_product_strategy/roadmap.md`](docs/03_product_strategy/roadmap.md)
+- AI/ML и архитектура: [`docs/06_ai_product/ai_solution_concept.md`](docs/06_ai_product/ai_solution_concept.md)
+- Продуктовые метрики и панель: [`docs/07_analytics/kpi_dashboard.md`](docs/07_analytics/kpi_dashboard.md)
 - Экономическое обоснование: [`docs/03_product_strategy/unit_economics.md`](docs/03_product_strategy/unit_economics.md)
 - Метрики качества ML (семинар 10): ноутбук [`notebooks/team_403_metrics.ipynb`](notebooks/team_403_metrics.ipynb) и выводы для Matching Engine [`docs/07_analytics/ml_metrics.md`](docs/07_analytics/ml_metrics.md). Техническая метрика Sansara — Precision@10; North Star — GMV завершённых сделок
 
