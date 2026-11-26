@@ -56,7 +56,7 @@ B2B-платформа Sansara загружает остатки и закупо
 
 ```text
 docs/          Документация и продуктовые артефакты
-assignments/   Выгрузки семинаров (С5: истории, RICE, план; С10: метрики ML)
+assignments/   Материалы семинаров 5–8 и 10
 notebooks/     Jupyter-ноутбуки с расчётами (С10: team_403_metrics.ipynb)
 data/          Исходные и обработанные данные (выгрузки из docx, CSV семинаров, таблицы расчётов)
 feedback/      Обратная связь и журнал доработок
@@ -74,6 +74,8 @@ mvp/           Описание MVP (исполняемый код пока от
 - AI/ML и архитектура: [`docs/06_ai_product/ai_solution_concept.md`](docs/06_ai_product/ai_solution_concept.md)
 - Продуктовые метрики и панель: [`docs/07_analytics/kpi_dashboard.md`](docs/07_analytics/kpi_dashboard.md)
 - Экономическое обоснование: [`docs/03_product_strategy/unit_economics.md`](docs/03_product_strategy/unit_economics.md)
+- Семинары 6–8: [план и прототип](assignments/S6_403_sprint_and_prototype.md), [AI Product Canvas](assignments/S7_403_ai_product_canvas.md), [CJM и требования](assignments/S8_403_cjm_and_requirements.md)
+- Учебный пример A/B-теста (смоделирован): [`docs/07_analytics/ab_test.md`](docs/07_analytics/ab_test.md)
 - Метрики качества ML (семинар 10): ноутбук [`notebooks/team_403_metrics.ipynb`](notebooks/team_403_metrics.ipynb) и выводы для Matching Engine [`docs/07_analytics/ml_metrics.md`](docs/07_analytics/ml_metrics.md). Техническая метрика Sansara — Precision@10; North Star — GMV завершённых сделок
 
 ## MVP
@@ -90,3 +92,5 @@ mvp/           Описание MVP (исполняемый код пока от
 - `Circula_technical_architecture.docx` → `data/raw/technical_architecture.txt`
 - `mvp.docx` → `data/raw/mvp.txt`
 - `Часть Максима.docx` → `data/raw/maxim_part.txt`
+
+Пояснения к доскам: [AI/ML и архитектура](data/raw/06_ai_ml_architecture.docx), [метрики и панель](data/raw/07_metrics_dashboard.docx). Текстовые копии: [`06_board_explanation.txt`](data/raw/06_board_explanation.txt), [`07_board_explanation.txt`](data/raw/07_board_explanation.txt).
